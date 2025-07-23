@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <h1> Haramaya University student Details Information </h1>
+    <h1> Haramaya University student Information Registration </h1>
     <h2>Male Students in Software Engineering (SENG)</h2>
 
     <div class="top-button">
